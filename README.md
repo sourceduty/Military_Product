@@ -35,7 +35,7 @@ Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) 
 
 #
 
-![Flintlock Pistol](https://github.com/sourceduty/Military_Product/assets/123030236/97ec8ea4-ff25-4282-a88c-5bd6f1391ce4)
+![Transparent Clear Plastic AK-47](https://github.com/sourceduty/Military_Product/assets/123030236/79c673a0-5b30-45d2-982d-1e8b400dbdf6)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
