@@ -33,5 +33,9 @@
 
 Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
 
+#
+
+![Weapons](https://github.com/sourceduty/Military_Product/assets/123030236/e16562a7-5cc7-4143-ab6e-16bc836264f4)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
