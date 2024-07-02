@@ -35,7 +35,7 @@ Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) 
 
 #
 
-![Transparent Clear Plastic AK-47](https://github.com/sourceduty/Military_Product/assets/123030236/79c673a0-5b30-45d2-982d-1e8b400dbdf6)
+![Examples](https://github.com/sourceduty/Military_Product/assets/123030236/06e27253-72f7-43c5-a3ac-0e4504f29404)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
