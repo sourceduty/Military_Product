@@ -1,10 +1,10 @@
 ![Inflatable WW2 Tank Dummy](https://github.com/sourceduty/Military_Product/assets/123030236/676f0ca9-5b51-49e2-a6b4-2d9ea9779d36)
 
-> Create military product packaging and equipment using DALL-E 3.
+> Create military product packaging, weapons and equipment using DALL-E 3.
 
 #
 
-[Military Product](https://chatgpt.com/g/g-lbdapKZ2f-military-product) was developed to create detailed and visually compelling packaging designs tailored for military equipment, vehicles, objects, and personnel gear. Its primary focus is on crafting packaging that emphasizes functionality, durability, and a rugged aesthetic that aligns with military standards and branding. By understanding the unique requirements and standards of military products, 'Military Product' ensures that the designs are not only visually appealing but also practical and robust.
+[Military Product](https://chatgpt.com/g/g-lbdapKZ2f-military-product) was developed to create detailed and visually compelling packaging designs tailored for military equipment, weapons, vehicles, objects, and personnel gear. Its primary focus is on crafting packaging that emphasizes functionality, durability, and a rugged aesthetic that aligns with military standards and branding. By understanding the unique requirements and standards of military products, 'Military Product' ensures that the designs are not only visually appealing but also practical and robust.
 
 'Military Product' can assist in a variety of ways. It helps military contractors, suppliers, and designers develop packaging solutions that meet strict military specifications. By using AI-driven design principles, it can quickly generate multiple design options, saving time and resources. Additionally, it ensures that all designs are compliant with the required standards, reducing the risk of errors and non-compliance issues. This efficiency and accuracy can streamline the production process and enhance the overall quality of military products.
 
