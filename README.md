@@ -35,7 +35,7 @@ Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) 
 
 #
 
-![Weapons](https://github.com/sourceduty/Military_Product/assets/123030236/e16562a7-5cc7-4143-ab6e-16bc836264f4)
+![Flintlock Pistol](https://github.com/sourceduty/Military_Product/assets/123030236/97ec8ea4-ff25-4282-a88c-5bd6f1391ce4)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
