@@ -1,4 +1,4 @@
-![Inflatable WW2 Tank Dummy](https://github.com/sourceduty/Military_Product/assets/123030236/676f0ca9-5b51-49e2-a6b4-2d9ea9779d36)
+![Examples](https://github.com/sourceduty/Military_Product/assets/123030236/06e27253-72f7-43c5-a3ac-0e4504f29404)
 
 > Create military product packaging, weapons and equipment using DALL-E 3.
 
@@ -32,10 +32,6 @@
 #
 
 Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
-
-#
-
-![Examples](https://github.com/sourceduty/Military_Product/assets/123030236/06e27253-72f7-43c5-a3ac-0e4504f29404)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
