@@ -36,6 +36,8 @@ The effectiveness of makeshift mobile missile systems lies in their adaptability
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Character Product](https://github.com/sourceduty/Character_Product)
+<br>
+[Military Automation](https://github.com/sourceduty/Military_Automation)
 
 #
 
