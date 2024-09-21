@@ -1,4 +1,4 @@
-![Examples](https://github.com/sourceduty/Military_Product/assets/123030236/06e27253-72f7-43c5-a3ac-0e4504f29404)
+![Removed](https://github.com/user-attachments/assets/8f4c63dc-1b30-4761-9bc9-bdedb2740c96)
 
 > Create military product packaging, weapons and equipment using DALL-E 3.
 
@@ -13,31 +13,20 @@
 #
 ### Mobile Makeshift Missile Systems
 
-![Mobile Makeshift Missile System](https://github.com/user-attachments/assets/ccec56cf-5b61-4c1b-ba4f-3870b79a36b7)
+![Mobile Makeshift Missile System](https://github.com/user-attachments/assets/c7bd0b55-0406-400b-8ea8-0a5e7a77fc4f)
 
 Makeshift mobile missile systems, represent a form of improvised weaponry often used by insurgent groups or non-state actors. These systems are typically assembled using readily available materials and components, such as metal pipes, straps, and basic propulsion mechanisms, which can be scavenged from various sources. The portability and ease of assembly of these systems make them ideal for guerrilla warfare and asymmetric combat situations, where conventional military resources are limited or unavailable. The use of such improvised systems allows users to conduct hit-and-run attacks or to target specific installations with a degree of surprise, thus compensating for their lack of more sophisticated weaponry.
 
 The effectiveness of makeshift mobile missile systems lies in their adaptability and low cost. Unlike conventional missile systems, which require significant investment, technical expertise, and logistical support, these makeshift versions can be quickly assembled, deployed, and hidden. This flexibility enables their operators to exploit the element of surprise and operate in environments where conventional military forces might struggle. However, the use of these systems also poses significant risks, both to the operators and to civilians, due to their unpredictable nature and lack of precision. The inherent instability of improvised missiles can lead to accidents, misfires, and unintended casualties, highlighting the dangers associated with the proliferation of such unconventional weaponry.
 
+#
+
+![Examples](https://github.com/sourceduty/Military_Product/assets/123030236/06e27253-72f7-43c5-a3ac-0e4504f29404)
 
 #
 ### Related Links
 
-[Drug Product](https://github.com/sourceduty/Drug_Product)
-<br>
-[Sports Product](https://github.com/sourceduty/Sports_Product)
-<br>
-[History Product](https://github.com/sourceduty/History_Product)
-<br>
-[Animal Product](https://github.com/sourceduty/Animal_Product)
-<br>
-[Movie Product](https://github.com/sourceduty/Movie_Product)
-<br>
-[ChatGPT](https://github.com/sourceduty/ChatGPT)
-<br>
-[Character Product](https://github.com/sourceduty/Character_Product)
-<br>
-[Military Automation](https://github.com/sourceduty/Military_Automation)
+[Graffiti](https://github.com/sourceduty/Graffiti)
 
 #
 
